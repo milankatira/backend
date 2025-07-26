@@ -2,7 +2,7 @@
 
 This task is a simple test of your frontend fundamentals. You’ll build a basic UI that lets users view, create, edit, and delete other users using a REST API.
 
-You can use React, Vue, plain JavaScript, or any frontend tech you’re comfortable with.
+You can use React/Nextjs.
 
 ---
 
